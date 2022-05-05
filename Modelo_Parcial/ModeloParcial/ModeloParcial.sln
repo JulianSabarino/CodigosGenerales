@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloParcial", "ModeloParcial.csproj", "{EA22EBF9-E5D4-4D42-8CD2-68609D8C71C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jardineria", "..\Planta\Jardineria.csproj", "{46F5FC74-2D23-4551-AB12-BBC288BED702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA22EBF9-E5D4-4D42-8CD2-68609D8C71C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA22EBF9-E5D4-4D42-8CD2-68609D8C71C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA22EBF9-E5D4-4D42-8CD2-68609D8C71C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA22EBF9-E5D4-4D42-8CD2-68609D8C71C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F5FC74-2D23-4551-AB12-BBC288BED702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F5FC74-2D23-4551-AB12-BBC288BED702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F5FC74-2D23-4551-AB12-BBC288BED702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F5FC74-2D23-4551-AB12-BBC288BED702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6B79FE-A7C3-4248-8FC6-5006B07679F1}
+	EndGlobalSection
+EndGlobal

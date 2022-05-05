@@ -1,0 +1,16 @@
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).exe
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).deps.json
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).runtimeconfig.json
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).runtimeconfig.dev.json
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).dll
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\bin\Debug\net5.0\Cual es el valor de (+).pdb
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).csproj.AssemblyReference.cache
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).AssemblyInfoInputs.cache
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).AssemblyInfo.cs
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).csproj.CoreCompileInputs.cache
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).dll
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\refint\Cual es el valor de (+).dll
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).pdb
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\Cual es el valor de (+).genruntimeconfig.cache
+D:\repos\TestNOthers\Simbolo(+)\Cual es el valor de (+)\obj\Debug\net5.0\ref\Cual es el valor de (+).dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ModeloParcial/1.0.0": {
+        "dependencies": {
+          "Jardineria": "1.0.0"
+        },
+        "runtime": {
+          "ModeloParcial.dll": {}
+        }
+      },
+      "Jardineria/1.0.0": {
+        "runtime": {
+          "Jardineria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModeloParcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jardineria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

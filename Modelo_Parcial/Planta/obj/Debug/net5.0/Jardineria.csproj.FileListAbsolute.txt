@@ -1,0 +1,12 @@
+D:\repos\TestNOthers\Modelo_Parcial\Planta\bin\Debug\net5.0\Jardineria.deps.json
+D:\repos\TestNOthers\Modelo_Parcial\Planta\bin\Debug\net5.0\Jardineria.dll
+D:\repos\TestNOthers\Modelo_Parcial\Planta\bin\Debug\net5.0\Jardineria.pdb
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.csproj.AssemblyReference.cache
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.AssemblyInfoInputs.cache
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.AssemblyInfo.cs
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.csproj.CoreCompileInputs.cache
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.dll
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\refint\Jardineria.dll
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\Jardineria.pdb
+D:\repos\TestNOthers\Modelo_Parcial\Planta\obj\Debug\net5.0\ref\Jardineria.dll
